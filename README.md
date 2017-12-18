@@ -3,10 +3,9 @@
 <img align="right" src="https://user-images.githubusercontent.com/32364261/34113526-02213f24-e3de-11e7-9736-8485e2c8b013.png"> 
 
 ## Description
-YesNote is an iOS app that I helped develop for my Capstone project at Kent State University. 
 
 <blockquote>
-  It is a jazz improvisation framework tool that provides a structured, yet open approach to learning improv fundamentals outside the classroom
+  YesNote is an iOS jazz improvisation framework tool that provides a structured, yet open approach to learning improv fundamentals outside of the classroom.
 </blockquote>
 
 ## Development
