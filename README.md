@@ -15,7 +15,7 @@ The app was completed:
 - within 2 months
 - by a 6 man team.
 
-We finished YesNote on schedule and delivered a polished, fully funtional application, complete with supporting documentation.
+We finished YesNote on schedule and delivered a polished, fully functional application, complete with supporting documentation.
 
 
 
