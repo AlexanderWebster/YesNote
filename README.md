@@ -36,7 +36,10 @@ YesNote is minimal, but *in all the right ways.*
 
 Our application provides all the information needed to have a structured practice session in the palm of your hand. 
 
-Based on your initial chord and mode selection, it returns a scale that is consanant and corresponds musically. Within this scale, it highlights the root notes and the perfect fifth. Then, it generates a backing chord as a set of modifiable notes. Finally, it allows you to enable a metronome that can also keep time to popular, lead-instrument jazz rhythms.
+
+<blockquote>
+Based on your initial chord and mode selection, it returns a scale that is consanant and corresponds musically. Within this scale, it  highlights the root notes and the perfect fifth. Then, it generates a backing chord as a set of modifiable notes. Finally, it allows you to enable a metronome that can also keep time to popular, lead-instrument jazz rhythms.
+</blockquote>
 
 The summation of these features is a structured framework for jazz improvisation that is content-rich, accessible and complete.
 
