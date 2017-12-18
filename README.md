@@ -47,15 +47,15 @@ The summation of these features is a structured framework for jazz improvisation
 
 ## Credits
 
-YesNote Team Members
+**YesNote Team Members**
 - Jeff Tobin
 - Blair McClain
 - Tim Miller
 - Josh Rising
 - Zacharly Ulum
 
-KSU Director of Jazz Improv
+**KSU Director of Jazz Improv**
 - Bobby Selvaggio
 
-Capstone/Software Development 
+**Capstone/Software Development** 
 - Augustine Samba, Ph.D
