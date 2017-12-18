@@ -41,7 +41,7 @@ Based on your initial chord and mode selection, it returns a scale that is consa
 The summation of these features is a structured framework for jazz improvisation that is content-rich, accessible and complete.
 
 
-### Credits
+## Credits
 
 YesNote Team Members
 - Jeff Tobin
