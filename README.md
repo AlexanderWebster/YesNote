@@ -52,7 +52,7 @@ The summation of these features is a structured framework for jazz improvisation
 - Blair McClain
 - Tim Miller
 - Josh Rising
-- Zacharly Ulum
+- Zachary Ulum
 
 **KSU Director of Jazz Improv**
 - Bobby Selvaggio
