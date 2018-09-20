@@ -53,6 +53,7 @@ The summation of these features is a structured framework for jazz improvisation
 - Tim Miller
 - Josh Rising
 - Zachary Ulum
+- Alexander Webster
 
 **KSU Director of Jazz Improv**
 - Bobby Selvaggio
